@@ -3,7 +3,7 @@ A number of short python scripts that deal with NBA stats.
 
 All scripts create an Excel spreadsheet with openpyxl with the data they calculate.
 
-Get Timeouts Spreadsheet - calculates various variables for every timeout in the 2015-16 NBA season.
+Get Possessions Spreadsheet - calculates various variables for every possession in the 2015-16 NBA regular season.
 
 Matchups - calculates the difference between every player's performance against their playoff matchup team, and against the rest of the league (difference in PIE and Net Rating).
 
